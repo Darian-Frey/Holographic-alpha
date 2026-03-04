@@ -1,11 +1,13 @@
 # 📐 Geometry vs. QEC: The Dynamic Interpretation
 
 ## The Wyler Foundation (1969)
-Armand Wyler's original derivation was based on the idea that the Fine-Structure Constant ($\alpha$) represents the ratio of the volume of the bounded symmetric domain of the complex light cone ($) to its boundary (^4 \times S^1$). 
+
+Armand Wyler's original derivation was based on the idea that the Fine-Structure Constant ($\alpha$) represents the ratio of the volume of the bounded symmetric domain of the complex light cone ($) to its boundary (^4 \times S^1$).
 
 While mathematically elegant, it was criticized for lacking a physical mechanism. Why would a geometric ratio dictate an electromagnetic coupling?
 
 ## The CODE-GEO Reinterpretation (2026)
+
 Under **CODE-GEO V3.2**, we move from "Static Volume" to **"Gate Capacity."**
 
 1. **The Vacuum as a Code:** If spacetime is a Quantum Error-Correcting (QEC) code, every "interaction" is a gate operation on the holographic boundary.
